@@ -9,4 +9,4 @@
 - 03
     - [ルーター自作でわかるパケットの流れ](http://gihyo.jp/book/2011/978-4-7741-4745-1/support)
 - 04
-    - [MySQL Binary Log Events](https://www.qoosky.io/techs/5a407cd8cb)
+    - [MySQL Binary Log Events](https://www.qoosky.dev/techs/5a407cd8cb)
